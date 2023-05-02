@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @olek03
-- 🌱 I’m currently learning Node.js and React.js
+Programming passionate.
 
-<!---
-olek03/olek03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a strong grasp on Typescript, React and Node.js. I enjoy developing web apps.
+
+Currently working on my side project https://github.com/olek03/3d-TS-engine
+
+My goal of this project is to create a fun minecraft-like 3d game and to broaden my understanding of 3D space. While working on this project I have understood trygonometry and vector calculations to a excellent degree.
