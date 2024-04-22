@@ -1,4 +1,4 @@
-Fullstack Software Engineer at Reesco.
+Fullstack Software Engineer at Reesco
 
 
 My top skills: Typescript, React, Node.js, Express, MongoDB, Postgres, WSL
