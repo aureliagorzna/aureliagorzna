@@ -1,7 +1,19 @@
 Programming passionate.
+Fullstack Software Engineer at Reesco.
 
-I have a strong grasp on Typescript, React and Node.js. I enjoy developing web apps.
+My top skills:
+-Typescript
+-React
+-Node.js
+-Express
+-MongoDB (NoSQL)
+-Postgres (SQL)
+-WSL
 
-Currently working on my side project https://github.com/aureliagorzna/3d-TS-engine
+Currently learning:
+-Angular
+-Prisma
+-Docker
+-Nest.js
 
-My goal of this project is to create a fun minecraft-like 3d game and to broaden my understanding of 3D space. While working on this project I have understood trygonometry and vector calculations to an excellent degree.
+Check out my Typescript 3d engine: https://github.com/aureliagorzna/3d-TS-engine
