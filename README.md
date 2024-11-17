@@ -1,6 +1,3 @@
-Fullstack Dev at Reesco
-
-
 My top skills: Typescript, React, Node.js, Express, MongoDB, Postgres, WSL
 
 
