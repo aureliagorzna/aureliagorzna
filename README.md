@@ -1,11 +1,17 @@
 # 💫 About Me:
-👩 Hi, I'm Aurelia Górzna<br>👩‍💻 Full-stack Web Dev
+👩 Hi, I'm Aurelia Górzna
+<br>
+👩‍💻 I'm a Full-stack Web Dev
+💼 I have **1.5 years** of proffesional experience, though I've been coding for **3 years**
+💡 I have been interested in computers since I was a little kid, playing games, tinkering with my own PC
+🔍 I pay attention to the details
+🗣 I enjoy **collaborating with other devs**, I'm honest and very open when communicating
 
 
 # 💻 Tech Stack:
 **BASIC:**
 <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 <br>
 <br>
 **LANGUAGES:**
