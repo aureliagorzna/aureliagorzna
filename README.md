@@ -5,11 +5,11 @@
 <br>
 💼 I have **1.5 years** of proffesional experience, though I've been coding for **3 years**
 <br>
-💡 I have been interested in computers since I was a little kid, playing games, tinkering with my own PC
+💡  I have been interested in computers since I was a little kid, playing games, tinkering with my own PC
 <br>
 🔍 I pay attention to the details
 <br>
-🗣 I enjoy **collaborating with other devs**, I'm honest and very open when communicating
+🗣  I enjoy **collaborating with other devs**, I'm honest and very open when communicating
 
 
 # 💻 Tech Stack:
