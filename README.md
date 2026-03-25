@@ -3,7 +3,7 @@
 <br>
 👩‍💻 I'm a Full-stack Web Dev
 <br>
-💼 I have **1.5 years** of proffesional experience, though I've been coding for **3 years**
+💼 I have **2 years** of professional experience, though I've been coding for **3 years**
 <br>
 💡  I have been interested in computers since I was a little kid, playing games, tinkering with my own PC
 <br>
