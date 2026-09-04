@@ -1,17 +1,16 @@
-# 💫 About Me:
 👩 Hi, I'm Aurelia Górzna
 <br>
 👩‍💻 Frontend developer focused on e-commerce, **2.5 years** professional experience
 <br>
-🔍 At **Luigi's Box** I was sole technical owner of **19 search integrations** for **11 e-commerce clients** - client data feeds, search and recommendation frames injected into sites I had no codebase access to, and every technical call handled myself
+💡 Into computers since I was a kid, playing games and tinkering with my own PC
 <br>
-⚡ At **Darigo** I built a full **Vue** frontend from Figma design to production on my own over a REST API, contributed to a shared component library, and maintained the company's largest codebase
+🔍 At **Luigi's Box** I was sole technical owner of **19 search integrations** for **11 e-commerce clients**, with client communication handled myself
+<br>
+⚡ At **Darigo** I built a full **Vue** frontend from Figma to production on my own over a REST API, plus shared components and maintenance on a large codebase
 <br>
 🤖 I've delivered integrations both hand-written and end to end by directing an **AI agent**, with prompts I wrote myself
 <br>
 🎮 Outside work I build things on HTML canvas from scratch - a 3D wireframe renderer, a platformer, a block-breaker. All pinned below.
-<br>
-💡 Interested in computers since I was a kid, playing games and tinkering with my own PC
 <br>
 🗣 I like working closely with other devs, on both sides of code review
 
