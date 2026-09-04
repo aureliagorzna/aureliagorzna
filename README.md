@@ -3,7 +3,11 @@
 <br>
 👩‍💻 Frontend developer focused on e-commerce, **2.5 years** professional experience
 <br>
-🛠 Most recently delivered **19 search integrations** for **11 e-commerce clients** - Vue, third-party DOM injection, XML feed processing
+🔍 At **Luigi's Box** I was sole technical owner of **19 search integrations** for **11 e-commerce clients** - client data feeds, search and recommendation frames injected into sites I had no codebase access to, and every technical call handled myself
+<br>
+⚡ At **Darigo** I built a full **Vue** frontend from Figma design to production on my own over a REST API, contributed to a shared component library, and maintained the company's largest codebase
+<br>
+🤖 I've delivered integrations both hand-written and end to end by directing an **AI agent**, with prompts I wrote myself
 <br>
 🎮 Outside work I build things on HTML canvas from scratch - a 3D wireframe renderer, a platformer, a block-breaker. All pinned below.
 <br>
