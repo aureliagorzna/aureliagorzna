@@ -1,9 +1,9 @@
 # 💫 About Me:
 👩 Hi, I'm Aurelia Górzna
 <br>
-👩‍💻 I'm a Full-stack Web Dev
+👩‍💻 I'm a Frontend Web Dev focused on e-commerce
 <br>
-💼 I have **2 years** of professional experience, though I've been coding for **3 years**
+💼 I have **2.5 years** of professional experience, though I've been coding for **3 years**
 <br>
 💡  I have been interested in computers since I was a little kid, playing games, tinkering with my own PC
 <br>
